@@ -120,6 +120,4 @@ Now you have the new dataset in place, it's time to start training a new model a
 ## 6. Final report and notes
 The final report is in the experiments folder on this repo.
 
-Also you can see this project on the LUISPENALOZA_assignment branch in the github repo.
-
 All the tests, trainings and evaluation models were done inside the container when there was free memory on the server.
