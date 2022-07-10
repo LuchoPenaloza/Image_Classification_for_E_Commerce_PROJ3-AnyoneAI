@@ -1,5 +1,12 @@
-# Sprint 05 Project
-> Vehicle classification from images
+# Image_Classification_for_E_Commerce_PROJ3-AnyoneAI
+
+This is a project part of the Anyone AI program, where are being developing knowledge and hard skills in machine learning, deep learning and artificial intelligence.
+
+Goal: predict vehicle manufacturer and model of unstructured e-commerce images.
+
+From a pre-built dataset of 196 classes, that was visualized, cleaned, pre-processed, and augmented data, a fine-grained classification model was trained using convolutional neural networks (CNN), achieving 70% accuracy with only 50 epochs (+80% with +epochs) in the prediction of both manufacturer and model vehicle, using Detectron2 framework to remove the noisy background of images. Finally, Docker and an API-based web service application were used to deploy in AWS instances.
+
+This repo has the development of the entire project.
 
 ## 1. Install
 
